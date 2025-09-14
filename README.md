@@ -72,6 +72,11 @@
 
 
 ---
+## 📊 GitHub Activity Graph  
+
+[![Pragya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pragyatripathii19&bg_color=141321&color=ffffff&line=79ff97&point=f9f9f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 ## 📈 GitHub Stats  
 ![Pragya's GitHub stats](https://github-readme-stats.vercel.app/api?username=pragyatripathii19&show_icons=true&theme=radical)  
