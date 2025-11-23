@@ -2,7 +2,7 @@
 
 🌟 Data Scientist @ ION Group 
 
-💻 Former **Software Engineer Intern @ Ciena India** 
+💻 Former **Software & Embedded Engineer Intern @ Ciena India**, contributed to automation and systems development
 
 🎓 Dual Degrees — **IIT Madras (Data Science)** & **GGSIPU (IT)** | Class of 2026  
 
