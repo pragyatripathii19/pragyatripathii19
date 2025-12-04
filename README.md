@@ -4,7 +4,7 @@
 
 💻 Former **Software & Embedded Engineer Intern @ Ciena India**
 
-🎓 Dual Degrees — **IIT Madras (Data Science)** & **GGSIPU (IT/CSE)** | Class of 2026  
+🎓 Dual Degrees — **IIT Madras (Data Science)** & **GGSIPU (CSE)** | Class of 2026  
 
 📊 Focused on **Data Science and  Machine Learning**  
 
