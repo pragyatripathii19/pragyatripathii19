@@ -1,12 +1,12 @@
 # Hi, I'm Pragya 👋  
 
-🌟 Data Scientist @ ION Group 
+🌟 **Data Scientist @ ION Group**  
 
 💻 Former **Software & Embedded Engineer Intern @ Ciena India**
 
-🎓 Dual Degrees — **IIT Madras (Data Science)** & **GGSIPU (CSE)** | Class of 2026  
+🎓 Dual Degrees — **IIT Madras (BS Data Science)** & **GGSIPU (CSE)** | Class of 2026  
 
-📊 Focused on **Data Science and  Machine Learning**  
+📊 Focused on **end-to-end Machine Learning**, working with messy real-world data across forecasting, segmentation, and interpretable ML  
 
 ---
 
@@ -16,7 +16,9 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pragyatripathii19)
 [![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pragyatripathii19@gmail.com)  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pragyatripathii19&label=Profile%20views&color=0e75b6&style=flat" alt="pragyatripathii19" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pragyatripathii19&label=Profile%20views&color=0e75b6&style=flat" alt="pragyatripathii19" />
+</p>
 
 ---
 
@@ -24,29 +26,28 @@
 
 <table>
   <tr>
-    <td><b>🚀 Programming & Web:</b></td>
+    <td><b>🚀 Programming & Web</b></td>
     <td>
       <img height="40" src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js"/>
     </td>
   </tr>
-  
+
   <tr>
-    <td><b>🗄️ Databases:</b></td>
+    <td><b>🗄️ Databases</b></td>
     <td>
       <img height="40" src="https://skillicons.dev/icons?i=postgres,mysql,sqlite"/>
     </td>
   </tr>
-  
+
   <tr>
-    <td><b>⚙️ Frameworks & APIs:</b></td>
+    <td><b>⚙️ Frameworks & APIs</b></td>
     <td>
-      <img height="40" src="https://skillicons.dev/icons?i=flask"/>
-      <img height="40" src="https://skillicons.dev/icons?i=fastapi"/>
+      <img height="40" src="https://skillicons.dev/icons?i=flask,fastapi"/>
     </td>
   </tr>
-  
+
   <tr>
-    <td><b>📊 Data Science & ML:</b></td>
+    <td><b>📊 Data Science & ML</b></td>
     <td>
       <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"/>
       <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"/>
@@ -55,9 +56,9 @@
       <img height="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"/>
     </td>
   </tr>
-  
+
   <tr>
-    <td><b>🛠️ Dev Tools:</b></td>
+    <td><b>🛠️ Dev Tools</b></td>
     <td>
       <img height="40" src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
       <img height="40" src="https://skillicons.dev/icons?i=jupyter"/>
@@ -65,11 +66,10 @@
   </tr>
 </table>
 
-
 ---
-## 📊 GitHub Activity Graph  
+
+## 📊 GitHub Activity  
 
 [![Pragya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pragyatripathii19&bg_color=141321&color=ffffff&line=79ff97&point=f9f9f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-✨ *"Driven by curiosity. Powered by data. Building for impact."*  
+✨ *"Driven by curiosity. Powered by data. Building for impact."*
