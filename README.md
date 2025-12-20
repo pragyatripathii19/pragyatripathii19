@@ -6,7 +6,7 @@
 
 🎓 Dual Degrees — **IIT Madras (BS Data Science)** & **GGSIPU (CSE)** | Class of 2026  
 
-📊 Focused on **end-to-end Machine Learning**, working with messy real-world data across forecasting, segmentation, and interpretable ML  
+📊 End-to-end Machine Learning on real-world data from problem framing to interpretable, high-impact models
 
 ---
 
