@@ -15,7 +15,7 @@ B.Tech in Information Technology, GGSIPU | BS in Data Science and Applications, 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium\&logoColor=white)](https://medium.com/@pragyatripathii19)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:pragyatripathii19@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=pragyatripathii19\&label=Profile%20Views\&color=0e75b6\&style=flat)
+![Profile Views](https://profile-counter.glitch.me/pragyatripathii19/count.svg)
 
 ---
 
