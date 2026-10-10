@@ -63,9 +63,10 @@ B.Tech in Information Technology, GGSIPU | BS in Data Science and Applications, 
 
 ---
 
-### 📈 GitHub Activity
+### 📊 GitHub Activity
 
-[![Pragya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pragyatripathii19\&bg_color=141321\&color=ffffff\&line=79ff97\&point=f9f9f9\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Pragya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pragyatripathii19\&theme=github-compact)
+
 
 ---
 
