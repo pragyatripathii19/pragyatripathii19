@@ -1,6 +1,6 @@
 # Hi, I'm Pragya Tripathi
 
-**Data Scientist @ ION Group | Machine Learning | Agentic AI | Data Analytics**
+**Data Scientist @ ION Group | Machine Learning | Agentic AI | Data Science**
 
 I work at the intersection of data science, machine learning, and AI engineering, building intelligent systems that turn complex data into actionable insights. My interests span applied machine learning, LLM-powered agentic systems, mathematical modelling, and data-driven problem solving.
 
